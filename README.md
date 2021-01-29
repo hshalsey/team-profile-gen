@@ -44,6 +44,7 @@
 ## Test: 
     
     Tests are ran through jest and are located in the test folder.
+    To initiate type "npm run test" into command line.
 
 
 ## Contribution: 
