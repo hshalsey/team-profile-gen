@@ -27,6 +27,9 @@
 
     This is generator that is ran in the command line. Its purpose is to create an html file with information about employees. The user has a choice to create a manager, intern of engineer profile and then they are asked specific details about each person in their specific role.  
 
+    https://drive.google.com/file/d/1m6hI-1JPIjkzPnL0Kgdq2icztrPallJ5/view
+
+    <img src = "./img/teamprofilepic.png">
 
 ## Installation:
 
