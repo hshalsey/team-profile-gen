@@ -29,7 +29,7 @@
 
     https://drive.google.com/file/d/1m6hI-1JPIjkzPnL0Kgdq2icztrPallJ5/view
 
-    <img src = "./img/teamprofilepic.png">
+![Alt text](/img/teamprofilepic.png?raw=true "Optional Title")
 
 ## Installation:
 
